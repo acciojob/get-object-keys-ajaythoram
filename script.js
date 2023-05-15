@@ -5,6 +5,6 @@ const student = {
 Object.prototype.getKeys = function(){
  return Object.keys(this);
 }
-const keys = stufent.getKeys();
+const keys = student.getKeys();
 console.log(keys);
 
